@@ -1,0 +1,25 @@
+# Keil MDK 编译产物（不需要上传）
+obj/
+user/Listings/
+user/DebugConfig/
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.bak
+*.lst
+*.map
+*.lnp
+*.iex
+*.htm
+*.sct
+*.elf
+*.bin
+*.hex
+*.i
+*.scvd
+*.uvguix.*
+*.uvgui.*
+JLinkLog.txt
+JLinkSettings.ini
